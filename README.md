@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Hi, I'm Luis](https://github.com/lrverges/lrverges/blob/main/assets/hi.gif)
 
 <!--
 **lrverges/lrverges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
