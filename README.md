@@ -10,7 +10,7 @@
   <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
   
-</p>
+<br />
 
   <img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
@@ -34,7 +34,7 @@
     <a href="https://github.com/lrverges">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
     </a>
-    <a href="mailto:lrverges@gmail.com" ><img width="10%" src="https://github.com/lrverges/lrverges/blob/main/logos/Gmail.png">
+    <a href="mailto:lrverges@gmail.com" ><img width="10%" src="https://github.com/lrverges/lrverges/blob/main/logos/GmailBlack.png">
 <p/>
 
 <hr/>
