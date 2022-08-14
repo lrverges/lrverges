@@ -34,6 +34,7 @@
     <a href="https://github.com/lrverges">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
     </a>
+    <a href="mailto:lrverges@gmail.com" ><img width="10%" src="https://github.com/lrverges/lrverges/blob/main/logos/Gmail.png">
 <p/>
 
 <hr/>
