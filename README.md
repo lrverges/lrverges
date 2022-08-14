@@ -1,8 +1,8 @@
 
 ![Hi, I'm Luis](https://github.com/lrverges/lrverges/blob/main/assets/hi.gif)
 
-## :star: Languages and Tools:
 
+<h2> Languages and Tools: </h2>
 <p>
   <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
   <img width="10%" height="50px" src="https://github.com/lrverges/lrverges/blob/main/logos/1200px-Devicon-css3-plain.svg.png">
