@@ -14,7 +14,8 @@
 
   <img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-  <img  width="10%" height="50px" src="https://github.com/lrverges/lrverges/blob/main/logos/expressjs.svg">
+  <img  style="background:white; padding:2px;"  
+       width="10%" height="50px" src="https://github.com/lrverges/lrverges/blob/main/logos/expressjs.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg">
   <br />
@@ -24,7 +25,7 @@
 
 <h2> Contact me: </h2>
 
-<p>
+<p style="background:white; padding:2px; width:95px; display:flex; justify-content:space-between" >
     <a href="https://www.linkedin.com/in/luisverges/">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
     </a>
