@@ -1,6 +1,11 @@
 
 ![Hi, I'm Luis](https://github.com/lrverges/lrverges/blob/main/assets/hi.gif)
-
+<h2> About Me </h2>
+<p>
+My name is Luis, I am an information systems engineer and a full stack web developer with knowledge in technologies such as #React, #Redux, #NodeJS, #Javascript, #Express, #PosgreSQL, #Sequelize, #CSS, #HTML. I also have more than 18 years in the food industry leading work teams in warehouses and planning Production, which gave me experience in negotiation and greater flexibility when integrating the different interests that the industrial part has, such as Marketing and Sales.
+I am passionate about technology and continuous improvement is in my DNA. I am always willing to help because I have experienced the synergy of teamwork. I like to solve problems and optimize processes. Curiosity motivates me to investigate and learn new tools that complement me.
+If you want to know more about me, contact me!
+</p>
 
 <h2> Languages and Tools: </h2>
 <p>
